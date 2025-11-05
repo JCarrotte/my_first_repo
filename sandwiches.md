@@ -2,8 +2,10 @@
 
 '''
 bread
+Cheese
+Ham
 bread
 '''
 
 ## To dos:
-- [ ] add fillings
+- [x] add fillings
