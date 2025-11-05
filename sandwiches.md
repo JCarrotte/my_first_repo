@@ -2,8 +2,10 @@
 
 '''
 bread
+chicken
 bread
 '''
 
 ## To dos:
-- [ ] add fillings
+
+- [x] add fillings
